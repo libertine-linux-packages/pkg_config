@@ -4,6 +4,7 @@
 
 variant=upstream
 
+depends build_busybox
 
 build_needs mkdir sed
 libertine_compile_build_pkg_config()
