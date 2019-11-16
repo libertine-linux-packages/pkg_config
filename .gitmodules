@@ -1,3 +1,8 @@
+Updating origin
+https://github.com/libertine-linux-mirrors/pkg-config
+Branch 'master' set up to track remote branch 'master' from 'origin'.
 [submodule "upstream"]
 	path = upstream
-	url = https://anongit.freedesktop.org/git/pkg-config.git
+	url = https://github.com/libertine-linux-mirrors/pkg-config.git
+	branch = master
+	libertine-linux-upstream = https://anongit.freedesktop.org/git/pkg-config.git
